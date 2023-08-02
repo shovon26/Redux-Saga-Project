@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  background-color: aqua;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.cart-div{
+  float: right;
+  margin: 25px;
+  position: relative;
+}
+
+.button-design{
+  height: 40px;
+  width: auto;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
